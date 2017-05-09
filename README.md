@@ -1,5 +1,5 @@
 * Ubuntu 14.04
 * CUDA 8.0
 * Python 3.4
-* Theano 0.8.2
-* Keras 1.1.2
+* Theano 0.9.0
+* Keras 2.0.4

@@ -2,7 +2,7 @@ FROM terminus7/gpu-py3-th
 
 MAINTAINER Luis Mesas <luis.mesas@intelygenz.com>
 
-ARG KERAS_VERSION=1.1.2
+ARG KERAS_VERSION=2.0.4
 
 # new python dependencies
 RUN pip --no-cache-dir install \
